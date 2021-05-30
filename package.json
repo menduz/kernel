@@ -127,6 +127,6 @@
     "typesafe-actions": "^4.4.2",
     "uglify-js": "^3.5.2",
     "webrtc-adapter": "^6.4.8",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   }
 }
